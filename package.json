@@ -1,0 +1,43 @@
+{
+  "name": "aliquamlaudantium",
+  "version": "1.0.0",
+  "description": "Execute CLI commands in node.",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/WymanMills/aliquamlaudantium.git"
+  },
+  "dependencies": {
+    "fs-extra": "^8.1.0"
+  },
+  "devDependencies": {
+    "@types/chai": "^4.2.11",
+    "@types/chai-as-promised": "^7.1.2",
+    "@types/fs-extra": "^8.1.0",
+    "@types/mocha": "^7.0.2",
+    "@types/node": "^10.17.18",
+    "chai": "^4.2.0",
+    "chai-as-promised": "^7.1.1",
+    "mocha": "^7.1.1",
+    "nyc": "^15.0.1",
+    "ts-node": "^8",
+    "tslint": "^5",
+    "typescript": "^3.8.3"
+  },
+  "engines": {
+    "node": ">=10.0.0"
+  },
+  "keywords": [
+    "unde",
+    "cli",
+    "exec",
+    "blanditiis",
+    "cmd",
+    "veritatis",
+    "doloribus",
+    "typescript"
+  ],
+  "author": "SoniaBoyer",
+  "license": "MIT"
+}
